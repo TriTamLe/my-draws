@@ -56,7 +56,7 @@
         <mxCell id="IeZtCJ_V18jkRsquN7jY-14" value="The token is valid?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="595" y="210" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IeZtCJ_V18jkRsquN7jY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="IeZtCJ_V18jkRsquN7jY-16" target="IeZtCJ_V18jkRsquN7jY-8">
+        <mxCell id="IeZtCJ_V18jkRsquN7jY-18" value="login success" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="IeZtCJ_V18jkRsquN7jY-16" target="IeZtCJ_V18jkRsquN7jY-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IeZtCJ_V18jkRsquN7jY-16" value="b2c login page" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;" vertex="1" parent="1">
@@ -87,6 +87,14 @@
         </mxCell>
         <mxCell id="IeZtCJ_V18jkRsquN7jY-28" value="end" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="245" y="590" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IeZtCJ_V18jkRsquN7jY-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="IeZtCJ_V18jkRsquN7jY-34" target="IeZtCJ_V18jkRsquN7jY-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="492.7027027027027" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IeZtCJ_V18jkRsquN7jY-34" value="Now the user is authenticated" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="445" y="465" width="100" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
