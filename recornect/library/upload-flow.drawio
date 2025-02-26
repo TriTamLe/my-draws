@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
   <diagram name="Page-1" id="Mwd-sdS5aPT-Yw2kYYVs">
-    <mxGraphModel dx="1324" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="987" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,6 +159,32 @@
         </mxCell>
         <mxCell id="UtEviaRXFZuZ-_orraku-42" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="1190" height="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jmhTuTzBvBggJ62hbPe_" name="Page-2">
+    <mxGraphModel dx="728" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lb1KusA2hsE-7kLxd_qA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lb1KusA2hsE-7kLxd_qA-1" target="Lb1KusA2hsE-7kLxd_qA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb1KusA2hsE-7kLxd_qA-1" value="Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb1KusA2hsE-7kLxd_qA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lb1KusA2hsE-7kLxd_qA-3" target="Lb1KusA2hsE-7kLxd_qA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb1KusA2hsE-7kLxd_qA-3" value="Putting to store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb1KusA2hsE-7kLxd_qA-4" value="Create new instance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lb1KusA2hsE-7kLxd_qA-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="530" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
