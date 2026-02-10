@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
+  <diagram name="Page-1" id="J0gta_o3MR2c-5hT4k7f">
+    <mxGraphModel dx="2071" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fBWQbcpE2jicCXpsnqQp-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="760" as="sourcePoint" />
+            <mxPoint y="-190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fBWQbcpE2jicCXpsnqQp-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="760" as="sourcePoint" />
+            <mxPoint x="1130" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Home" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Modal" vertex="1">
+          <mxGeometry height="140" width="920" x="30" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-4" parent="aGxK02LUpjCxETF4CHtd-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Create/Edit event modal" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Control center" vertex="1">
+          <mxGeometry height="110" width="920" x="30" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-21" parent="aGxK02LUpjCxETF4CHtd-10" style="rounded=1;whiteSpace=wrap;html=1;" value="Control center bento box" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-22" parent="aGxK02LUpjCxETF4CHtd-10" style="rounded=1;whiteSpace=wrap;html=1;" value="Notification list" vertex="1">
+          <mxGeometry height="60" width="120" x="165" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="App overlay" vertex="1">
+          <mxGeometry height="110" width="920" x="30" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-34" parent="aGxK02LUpjCxETF4CHtd-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Key board" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Alarm &amp;amp; Timer screen" vertex="1">
+          <mxGeometry height="60" width="130" x="170" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Photo board" vertex="1">
+          <mxGeometry height="60" width="130" x="315" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Calendar grid" vertex="1">
+          <mxGeometry height="60" width="130" x="460" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chat area" vertex="1">
+          <mxGeometry height="60" width="130" x="610" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-18" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Notification" vertex="1">
+          <mxGeometry height="110" width="920" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-20" parent="aGxK02LUpjCxETF4CHtd-18" style="rounded=1;whiteSpace=wrap;html=1;" value="Chat message&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Relax video list" vertex="1">
+          <mxGeometry height="60" width="130" x="760" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-27" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Relax App Player" vertex="1">
+          <mxGeometry height="200" width="200" x="30" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-25" parent="aGxK02LUpjCxETF4CHtd-27" style="rounded=1;whiteSpace=wrap;html=1;" value="Relax video player overlay control" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-24" parent="aGxK02LUpjCxETF4CHtd-27" style="rounded=1;whiteSpace=wrap;html=1;" value="Relax video player" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-28" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Call" vertex="1">
+          <mxGeometry height="170" width="470" x="30" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-7" parent="aGxK02LUpjCxETF4CHtd-28" style="rounded=1;whiteSpace=wrap;html=1;" value="Direct call zone" vertex="1">
+          <mxGeometry height="60" width="120" x="25" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-8" parent="aGxK02LUpjCxETF4CHtd-28" style="rounded=1;whiteSpace=wrap;html=1;" value="External video call zone" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-9" parent="aGxK02LUpjCxETF4CHtd-28" style="rounded=1;whiteSpace=wrap;html=1;" value="Quick call zone" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Video list" vertex="1">
+          <mxGeometry height="60" width="130" x="910" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Video App Player" vertex="1">
+          <mxGeometry height="200" width="200" x="270" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-32" parent="aGxK02LUpjCxETF4CHtd-31" style="rounded=1;whiteSpace=wrap;html=1;" value="Video player overlay control" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aGxK02LUpjCxETF4CHtd-33" parent="aGxK02LUpjCxETF4CHtd-31" style="rounded=1;whiteSpace=wrap;html=1;" value="Video player" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
